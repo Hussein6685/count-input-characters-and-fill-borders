@@ -15,7 +15,6 @@ input {
     border: none;
     border-bottom: 2px solid #d7d7d7;
     background-color: #fbfbfb;
-
 }
 input:focus {
     outline: none;
@@ -23,7 +22,7 @@ input:focus {
 .progress {
     background-color: #2196f3;
     height: 2px;
-    width: 100px;
+    width: 0;
     display: block;
     position: relative;
     top: -2px;
